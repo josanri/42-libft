@@ -32,4 +32,4 @@ bonus: ${OBJS} ${OBJS_B}
 
 re:		fclean	all
 
-.PHONY: fclean clean all bonus ${NAME}
+.PHONY: fclean clean all bonus
